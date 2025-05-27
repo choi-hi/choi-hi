@@ -1,28 +1,48 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=fff099&height=120&text=choi%20GitHub&animation=scaleIn&fontColor=000000&fontSize=40" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://startfront.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://startfront.tistory.com/"> </a>
-         <a href=mailto:gmltmdsp@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmltmdsp@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=choi-hi&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hi&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0C356A&height=200&text=Hi%20There!%20I'm%20Choi👋&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <h2>🛠️ Tech Stacks</h2>
+  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <h2>🧑‍💻 Contact Me</h2>
+  
+  <a href="https://startfront.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="mailto:gmltmdsp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <h2>🏅 Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=choi-hi&bg_color=ffffff&title_color=000000&text_color=000000&show_icons=true&icon_color=000000" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hi&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" />
+  
+</div>
